@@ -303,6 +303,10 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     height: auto;
     z-index: 100;
 }
+
+.header-section img{
+    width: 160px;
+}
 .branding{
     padding: 20px 0;
 }
